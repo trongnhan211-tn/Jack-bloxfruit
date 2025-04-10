@@ -1,5 +1,3 @@
-
-shared.LoaderTitle = "Đăng Ký Kênh TBoy Roblox";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -100,7 +98,7 @@ local v7 = CreateObject("ImageLabel", {
 });
 v4(25, v7);
 local v8 = CreateObject("TextLabel", {
-    Name = "UserName",
+    Name = "Jack Bloxfruit",
     Parent = v6,
     BackgroundTransparency = 1,
     Text = "Youtube: TBoy Roblox",
