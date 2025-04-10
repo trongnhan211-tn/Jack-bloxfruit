@@ -89,7 +89,7 @@ local v6 = CreateObject("Frame", {
 });
 v4(12, v6);
 local v7 = CreateObject("ImageLabel", {
-    Name = "UserImage",
+    Name = "Jack Bloxfruit",
     Parent = v6,
     BackgroundTransparency = 1,
     Image = "rbxassetid://84041834478599",
